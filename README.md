@@ -1,4 +1,4 @@
-<h1 align="center"> 🚀 HTML5 | Accordion </h1>
+<h1 align="center"> 🚀 Flexbox | Order </h1>
 
 ## ✍️ Descrição
 Exemplificação de Flexbox
